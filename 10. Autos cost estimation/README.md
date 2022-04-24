@@ -29,7 +29,7 @@ del features_train
 
 *Описание данных*
 
-Данные находятся в файле /datasets/autos.csv. Скачать датасет.
+Данные находятся в файле /datasets/autos.csv.
 
 Признаки
 * DateCrawled — дата скачивания анкеты из базы
